@@ -1,0 +1,14 @@
+.root {
+    position: relative;
+    display: flex;
+    padding: 40px;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    position: absolute;
+    right: 25px;
+    width: 15px;
+}
